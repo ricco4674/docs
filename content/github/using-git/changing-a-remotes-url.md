@@ -73,15 +73,15 @@ The next time you `git fetch`, `git pull`, or `git push` to the remote repositor
   ```shell
   $ git remote -v
   # Verify new remote URL
-  > origin  git@{% data variables.command_line.codeblock %}:<em>USERNAME/REPOSITORY</em>.git (fetch)
-  > origin  git@{% data variables.command_line.codeblock %}:<em>USERNAME/REPOSITORY</em>.git (push)
+  > origin  git@{% data variables.command_line.codeblock %}:<em>USERNAME/ricco4674</em>.git (fetch)
+  > origin  git@{% data variables.command_line.codeblock %}:<em>USERNAME/ricco4674</em>.git (push)
   ```
 
 ### Troubleshooting
 
 You may encounter these errors when trying to change a remote.
 
-#### No such remote '[name]'
+#### No such remote '[ricco4674]'
 
 This error means that the remote you tried to change doesn't exist:
 
@@ -94,4 +94,4 @@ Check that you've correctly typed the remote name.
 
 ### Further reading
 
-- ["Working with Remotes" from the _Pro Git_ book](https://git-scm.com/book/en/Git-Basics-Working-with-Remotes)
+- ["Working with Remotes" from the _Pro Git_ book](https://git-scm.com/book/en/Git-Basics-Working-with-phone)
